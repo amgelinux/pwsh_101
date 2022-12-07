@@ -1,1 +1,1 @@
-# pwsh_101
+Ejercicios de ejemplo de PowerShell
